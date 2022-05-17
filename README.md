@@ -11,7 +11,7 @@ The API for an application to upload your images to the cloud and get the link o
 - Multer
 
 **Deployment**
-- Heroku
+- Railway
 
 ## Getting Started
 ```
