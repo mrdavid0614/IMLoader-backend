@@ -15,12 +15,12 @@ The API for an application to upload your images to the cloud and get the link o
 
 ## Getting Started
 ```
-	# Install the required dependencies
-	$ yarn install;
+# Install the required dependencies
+$ yarn install;
 
-	# Run in development mode
-	$ yarn dev;
+# Run in development mode
+$ yarn dev;
 
-	# Build app for production
-	$ yarn build;
+# Build app for production
+$ yarn build;
 ```
